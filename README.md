@@ -25,3 +25,11 @@
 [Space.com](http://www.space.com/)
 [Eureka](http://danielmarin.naukas.com/)  
 [Scientia](http://scientiablog.com/)  
+
+##Photographers##
+Henri Cartier-Bressons
+Garry Winogrand
+Robert Frank (The Americans)
+Eggie Eggleston
+Martin Parr
+
