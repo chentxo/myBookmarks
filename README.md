@@ -27,9 +27,12 @@
 [Scientia](http://scientiablog.com/)  
 
 ##Photographers##
-Henri Cartier-Bressons
-Garry Winogrand
-Robert Frank (The Americans)
-Eggie Eggleston
-Martin Parr
+Henri Cartier-Bressons  
+Garry Winogrand  
+Robert Frank (The Americans)  
+Eggie Eggleston  
+Martin Parr  
+Jacob Perlmutter  
+Yianis Yiasaris  
+Joe Aguirre  
 
