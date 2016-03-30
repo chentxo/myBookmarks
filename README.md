@@ -27,6 +27,7 @@
 [Scientia](http://scientiablog.com/)  
 
 ##Photographers##
+[EricKim Blog Learn from the Masters](http://erickimphotography.com/blog/learn-from-the-masters/)  
 Henri Cartier-Bressons  
 Garry Winogrand  
 Robert Frank (The Americans)  
