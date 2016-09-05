@@ -1,5 +1,8 @@
 # myBookmarks
 
+##Houdini##
+[Houdini CGWiki Tokeru] (http://www.tokeru.com/cgwiki/index.php?title=Main_Page)  
+
 ##Python##
 [Intro to Python in Houdini] (https://www.youtube.com/watch?v=Ua2loiGHZ38&index=2&list=RDN7m86aMNjlQ)
 
