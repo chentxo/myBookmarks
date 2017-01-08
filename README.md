@@ -19,6 +19,7 @@
 [A320 Checklist Tutorial](http://airbus320neo.com/download/docs/Tutorial_A320_toller_stefan.pdf)  
 [A320Checklist](http://airbus320neo.com/download/docs/JARa320_Checklist.pdf)  
 [Spain UHD](http://spainuhd.blogspot.fr/p/descarga.html)  
+[XFlight Planner] (http://app.xflightplanner.net/#)  
 
 ##Astrophisycs##
 [La bitácora de Galileo](http://www.bitacoradegalileo.com/indice-tematico/)  
