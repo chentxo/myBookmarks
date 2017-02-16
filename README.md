@@ -1,6 +1,7 @@
 # myBookmarks
 
 ##Games,Web,etc##
+[Graphic Gems PDF] (http://inis.jinr.ru/sl/vol1/CMC/Graphics_Gems_2,ed_J.Arvo.pdf)  
 [Meetup - Gamelier (eventos gratis Paris)] (http://www.meetup.com/fr-FR/Gamelier-Paris-meetup-community/)  
 [Three D Scans] (http://threedscans.com/)  
 [Adrian Courreges Doom 2016 Study] (http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)  
