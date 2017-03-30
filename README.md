@@ -1,17 +1,20 @@
 # myBookmarks
 
-## **Games,Web,etc**
-[Graphic Gems PDF] (http://inis.jinr.ru/sl/vol1/CMC/Graphics_Gems_2,ed_J.Arvo.pdf)  
-[Meetup - Gamelier (eventos gratis Paris)] (http://www.meetup.com/fr-FR/Gamelier-Paris-meetup-community/)  
-[Three D Scans] (http://threedscans.com/)  
-[Adrian Courreges Doom 2016 Study] (http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)  
-[Behavior trees for AI (Project Zomboid)] (http://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php/)  
+## **Games,Web,etc**  
+[Graphic Gems PDF](http://inis.jinr.ru/sl/vol1/CMC/Graphics_Gems_2,ed_J.Arvo.pdf)  
+[Meetup - Gamelier (eventos gratis Paris)](http://www.meetup.com/fr-FR/Gamelier-Paris-meetup-community/)  
+[Three D Scans](http://threedscans.com/)  
+[Adrian Courreges Doom 2016 Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)  
+[Behavior trees for AI (Project Zomboid)](http://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php/)  
 
 ## **Houdini**
-[Houdini CGWiki Tokeru] (http://www.tokeru.com/cgwiki/index.php?title=Main_Page)  
+[Houdini CGWiki Tokeru](http://www.tokeru.com/cgwiki/index.php?title=Main_Page)  
 
 ## **Python**
-[Intro to Python in Houdini] (https://www.youtube.com/watch?v=Ua2loiGHZ38&index=2&list=RDN7m86aMNjlQ)
+[Intro to Python in Houdini](https://www.youtube.com/watch?v=Ua2loiGHZ38&index=2&list=RDN7m86aMNjlQ)
+
+## **Nuke**  
+[Point cloud generation and camera tracking in Nuke 8](http://community.foundry.com/discuss/topic/86851)  
 
 ## **X-Plane**
 [World Charts](http://www.uvairlines.com/admin/resources/charts/charts-europe.htm)  
