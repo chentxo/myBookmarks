@@ -16,6 +16,9 @@
 ## **Nuke**  
 [Point cloud generation and camera tracking in Nuke 8](http://community.foundry.com/discuss/topic/86851)  
 
+## **Math & Programming**  
+[Using Quaternion to Perform 3D rotations](http://www.cprogramming.com/tutorial/3d/quaternions.html)
+
 ## **X-Plane**
 [World Charts](http://www.uvairlines.com/admin/resources/charts/charts-europe.htm)  
 [Route Finder](http://rfinder.asalink.net/free/)  
