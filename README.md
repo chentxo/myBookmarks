@@ -19,6 +19,7 @@
 ## **Math & Programming**  
 [Using Quaternion to Perform 3D rotations](http://www.cprogramming.com/tutorial/3d/quaternions.html)  
 [Maths - Quaternion to AxisAngle](http://www.euclideanspace.com/maths/geometry/rotations/conversions/quaternionToAngle/)  
+[Explained Visually](http://setosa.io/ev/)  
 
 ## **X-Plane**
 [World Charts](http://www.uvairlines.com/admin/resources/charts/charts-europe.htm)  
