@@ -20,6 +20,7 @@
 [Using Quaternion to Perform 3D rotations](http://www.cprogramming.com/tutorial/3d/quaternions.html)  
 [Maths - Quaternion to AxisAngle](http://www.euclideanspace.com/maths/geometry/rotations/conversions/quaternionToAngle/)  
 [Explained Visually](http://setosa.io/ev/)  
+[Oriented bounding box from point cloud](https://hewjunwei.wordpress.com/2013/01/26/obb-generation-via-principal-component-analysis/)  
 
 ## **X-Plane**
 [World Charts](http://www.uvairlines.com/admin/resources/charts/charts-europe.htm)  
