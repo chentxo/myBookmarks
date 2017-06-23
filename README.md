@@ -7,8 +7,9 @@
 [Adrian Courreges Doom 2016 Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)  
 [Behavior trees for AI (Project Zomboid)](http://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php/)  
 
-## **Houdini**
+## **Houdini & CG**
 [Houdini CGWiki Tokeru](http://www.tokeru.com/cgwiki/index.php?title=Main_Page)  
+[Code and Visuals](http://blog.yiningkarlli.com/)  
 
 ## **Python**
 [Intro to Python in Houdini](https://www.youtube.com/watch?v=Ua2loiGHZ38&index=2&list=RDN7m86aMNjlQ)
