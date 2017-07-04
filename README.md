@@ -10,6 +10,9 @@
 ## **Houdini & CG**
 [Houdini CGWiki Tokeru](http://www.tokeru.com/cgwiki/index.php?title=Main_Page)  
 [Code and Visuals](http://blog.yiningkarlli.com/)  
+[Jurajtomori - Blog shaping particle sims interaction forces](https://jurajtomori.wordpress.com/)  
+[PepeFx - Blog cigarrete smoke](http://pepefx.blogspot.fr/)  
+
 
 ## **Python**
 [Intro to Python in Houdini](https://www.youtube.com/watch?v=Ua2loiGHZ38&index=2&list=RDN7m86aMNjlQ)
