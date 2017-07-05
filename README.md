@@ -12,6 +12,7 @@
 [Code and Visuals](http://blog.yiningkarlli.com/)  
 [Jurajtomori - Blog shaping particle sims interaction forces](https://jurajtomori.wordpress.com/)  
 [PepeFx - Blog cigarrete smoke](http://pepefx.blogspot.fr/)  
+[Masterclases](http://www.iamag.co/features/)  
 
 
 ## **Python**
