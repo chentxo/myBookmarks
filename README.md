@@ -42,6 +42,7 @@
 [Tracking VOR's](https://allaboutairplanes.wordpress.com/2011/06/16/tracking-and-intercepting-vors/)  
 [E6B flight computer Emulator](http://www.csgnetwork.com/e6bcalc.html)  
 [European AIS database](https://www.ead.eurocontrol.int/fwf-eadbasic/public/cms/cmscontent.faces?configKey=default.home.page)  
+[Flight Planer 2.0](http://onlineflightplanner.org/)  
 
 ## **Astrophisycs**
 [La bitácora de Galileo](http://www.bitacoradegalileo.com/indice-tematico/)  
