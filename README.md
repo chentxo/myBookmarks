@@ -70,3 +70,8 @@ Jacob Perlmutter
 Yianis Yiasaris  
 Joe Aguirre  
 
+## **Bolsa**
+[SimplySafeDividends](https://www.simplysafedividends.com/#)  
+[MrFreeat33](http://www.mrfreeat33.com/)  
+  
+[Capturando Dividendos](http://capturandodividendos.blogspot.fr/)  
