@@ -43,6 +43,7 @@
 [E6B flight computer Emulator](http://www.csgnetwork.com/e6bcalc.html)  
 [European AIS database](https://www.ead.eurocontrol.int/fwf-eadbasic/public/cms/cmscontent.faces?configKey=default.home.page)  
 [Flight Planer 2.0](http://onlineflightplanner.org/)  
+[Piloto Virtual](http://tomalosmandos.blogspot.fr/2010/06/el-piloto-virtual-primeros-pasos.html)  
 
 ## **Astrophisycs**
 [La bitácora de Galileo](http://www.bitacoradegalileo.com/indice-tematico/)  
