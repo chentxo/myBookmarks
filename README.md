@@ -45,6 +45,8 @@
 [Flight Planer 2.0](http://onlineflightplanner.org/)  
 [Piloto Virtual](http://tomalosmandos.blogspot.fr/2010/06/el-piloto-virtual-primeros-pasos.html)  
 [Abreviaciones Aviacion](http://www.telcom.es/~gacias/rincon/abrevaz.html)  
+[Ortho4XP sources](https://forums.x-plane.org/index.php?/forums/topic/125828-ortho4xp-per-country-master-source-list/)  
+[IVAP for x-plane instructions](https://ivao.aero/softdev/X-IvAp/walkthrough.htm)  
 
 ## **Astrophisycs**
 [La bitácora de Galileo](http://www.bitacoradegalileo.com/indice-tematico/)  
