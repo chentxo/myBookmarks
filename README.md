@@ -62,6 +62,7 @@
 [Space.com](http://www.space.com/)
 [Eureka](http://danielmarin.naukas.com/)  
 [Scientia](http://scientiablog.com/)  
+[Fogonazos](http://www.fogonazos.es)  
 
 ## **Photographers**
 [EricKim Blog Learn from the Masters](http://erickimphotography.com/blog/learn-from-the-masters/)  
