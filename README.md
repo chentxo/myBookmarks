@@ -64,6 +64,7 @@
 [Scientia](http://scientiablog.com/)  
 [Fogonazos](http://www.fogonazos.es)  
 [Maths behind rainbows](https://plus.maths.org/content/rainbows)  
+[Maths behind rainbows 2](http://scientificsentence.net/Equations/optics/index.php?key=yes&Integer=descartes_rainbow)  
 [En el cielo las Estrellas](http://guillermoabramson.blogspot.fr/)  
 [Apuntes Fisica 1 - Modelo atomico absorcion y emision](http://rephip.unr.edu.ar/bitstream/handle/2133/4905/7101-15%20FISICA%20Modelo%20at%C3%B3mico%20de%20absorci%C3%B3n%20y%20emis%C3%B3n%20de%20fotones.pdf?sequence=2)  
 [El Tamiz](https://eltamiz.com/)  
