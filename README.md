@@ -47,6 +47,8 @@
 [Abreviaciones Aviacion](http://www.telcom.es/~gacias/rincon/abrevaz.html)  
 [Ortho4XP sources](https://forums.x-plane.org/index.php?/forums/topic/125828-ortho4xp-per-country-master-source-list/)  
 [IVAP for x-plane instructions](https://ivao.aero/softdev/X-IvAp/walkthrough.htm)  
+[IVAO Flight Student](https://www.ivao.aero/training/documentation/index.php?section=fsx)  
+[IVAO primeros pasos, ejemplos com](https://files.ivao.es/newbie/PrimPasATC.pdf)  
 
 ## **Astrophisycs**
 [La bitácora de Galileo](http://www.bitacoradegalileo.com/indice-tematico/)  
