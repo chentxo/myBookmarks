@@ -37,7 +37,7 @@
 [Spain UHD](http://spainuhd.blogspot.fr/p/descarga.html)  
 [XFlight Planner](http://app.xflightplanner.net/#)  
 [Enaire Charts - Routes](http://www.enaire.es/csee/Satellite/navegacion-aerea/es/Page/1078418725163/?other=1083158950596&other2=1083857759015&other3=1091168244328#ancla33511)  
-[X-Plane 11 worldwide Airports](http://x-plane.cleverest.eu/)  
+[X-Plane 11 worldwide Airports]http://www.hk-phy.org/articles/cdrom/cdrom_e.html(http://x-plane.cleverest.eu/)  
 [VOR and others Simulator](http://www.luizmonteiro.com/learning_vor_sim.aspx)  
 [Tracking VOR's](https://allaboutairplanes.wordpress.com/2011/06/16/tracking-and-intercepting-vors/)  
 [E6B flight computer Emulator](http://www.csgnetwork.com/e6bcalc.html)  
@@ -72,7 +72,7 @@
 [El Tamiz](https://eltamiz.com/)  
 [Optics](http://scientificsentence.net/Equations/optics/index.php)  
 [Causes of color](http://www.webexhibits.org/causesofcolor/index.html)  
-[About CD/DVDs  -  1](http://www.explainthatstuff.com/cdplayers.html)
+About CD/DVDs [1](http://www.explainthatstuff.com/cdplayers.html)
 [2](https://www.clir.org/pubs/reports/pub121/sec3/)
 [3](http://www.hk-phy.org/articles/cdrom/cdrom_e.html)  
 
