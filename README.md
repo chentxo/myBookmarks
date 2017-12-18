@@ -72,8 +72,9 @@
 [El Tamiz](https://eltamiz.com/)  
 [Optics](http://scientificsentence.net/Equations/optics/index.php)  
 [Causes of color](http://www.webexhibits.org/causesofcolor/index.html)  
-[About CD/DVDs  -  1](http://www.explainthatstuff.com/cdplayers.html)  
-[               -  2](https://www.clir.org/pubs/reports/pub121/sec3/)  
+[About CD/DVDs  -  1](http://www.explainthatstuff.com/cdplayers.html)
+[2](https://www.clir.org/pubs/reports/pub121/sec3/)
+[3](http://www.hk-phy.org/articles/cdrom/cdrom_e.html)  
 
 ## **Photographers**
 [EricKim Blog Learn from the Masters](http://erickimphotography.com/blog/learn-from-the-masters/)  
