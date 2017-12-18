@@ -75,6 +75,7 @@
 About CD/DVDs [1](http://www.explainthatstuff.com/cdplayers.html)
 [2](https://www.clir.org/pubs/reports/pub121/sec3/)
 [3](http://www.hk-phy.org/articles/cdrom/cdrom_e.html)  
+[Mainly on Colour](https://www.itp.uni-hannover.de/zawischa.html?&L=1)  
 
 ## **Photographers**
 [EricKim Blog Learn from the Masters](http://erickimphotography.com/blog/learn-from-the-masters/)  
