@@ -50,24 +50,17 @@
 [IVAO Flight Student](https://www.ivao.aero/training/documentation/index.php?section=fsx)  
 [IVAO primeros pasos, ejemplos com](https://files.ivao.es/newbie/PrimPasATC.pdf)  
 
-## **Astrophisycs**
-[La bitácora de Galileo](http://www.bitacoradegalileo.com/indice-tematico/)  
-[Astofisica y Fisica](http://www.astrofisicayfisica.com)  
+## **Phisycs**
 [PrincipiaTechnologica](http://principiatechnologica.com/)  
 [Principia IO](http://principia.io/#)  
-[AstroMia, astronomia educativa](http://www.astromia.com/) 
-[Hobble site, Beyond the Visible](http://webbtelescope.org/webb_telescope/science_on_the_edge/beyond_the_visible/)  
 [Naukas, El profesor de Fisica](http://elprofedefisica.naukas.com/)  
 [Naukas](http://naukas.com/)  
 [Critical Thinking](http://darksapiens.blogspot.fr/)  
-[Bad Astronomy](http://www.slate.com/blogs/bad_astronomy.html)  
-[Space.com](http://www.space.com/)
 [Eureka](http://danielmarin.naukas.com/)  
 [Scientia](http://scientiablog.com/)  
 [Fogonazos](http://www.fogonazos.es)  
 [Maths behind rainbows](https://plus.maths.org/content/rainbows)  
 [Maths behind rainbows 2](http://scientificsentence.net/Equations/optics/index.php?key=yes&Integer=descartes_rainbow)  
-[En el cielo las Estrellas](http://guillermoabramson.blogspot.fr/)  
 [Apuntes Fisica 1 - Modelo atomico absorcion y emision](http://rephip.unr.edu.ar/bitstream/handle/2133/4905/7101-15%20FISICA%20Modelo%20at%C3%B3mico%20de%20absorci%C3%B3n%20y%20emis%C3%B3n%20de%20fotones.pdf?sequence=2)  
 [El Tamiz](https://eltamiz.com/)  
 [Optics](http://scientificsentence.net/Equations/optics/index.php)  
@@ -76,6 +69,16 @@ About CD/DVDs [1](http://www.explainthatstuff.com/cdplayers.html)
 [2](https://www.clir.org/pubs/reports/pub121/sec3/)
 [3](http://www.hk-phy.org/articles/cdrom/cdrom_e.html)  
 [Mainly on Colour](https://www.itp.uni-hannover.de/zawischa.html?&L=1)  
+
+## **Astrophisycs**
+[La bitácora de Galileo](http://www.bitacoradegalileo.com/indice-tematico/)  
+[Astofisica y Fisica](http://www.astrofisicayfisica.com)  
+[En el cielo las Estrellas](http://guillermoabramson.blogspot.fr/)  
+[AstroMia, astronomia educativa](http://www.astromia.com/) 
+[Hobble site, Beyond the Visible](http://webbtelescope.org/webb_telescope/science_on_the_edge/beyond_the_visible/)  
+[Bad Astronomy](http://www.slate.com/blogs/bad_astronomy.html)  
+[Space.com](http://www.space.com/)
+[ESO Online Digitized Sky Survey](http://archive.eso.org/dss/dss)  
 
 ## **Photographers**
 [EricKim Blog Learn from the Masters](http://erickimphotography.com/blog/learn-from-the-masters/)  
