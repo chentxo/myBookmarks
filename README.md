@@ -77,7 +77,7 @@ About CD/DVDs [1](http://www.explainthatstuff.com/cdplayers.html)
 [AstroMia, astronomia educativa](http://www.astromia.com/) 
 [Hobble site, Beyond the Visible](http://webbtelescope.org/webb_telescope/science_on_the_edge/beyond_the_visible/)  
 [Bad Astronomy](http://www.slate.com/blogs/bad_astronomy.html)  
-[Space.com](http://www.space.com/)
+[Space.com](http://www.space.com/)  
 [ESO Online Digitized Sky Survey](http://archive.eso.org/dss/dss)  
 
 ## **Photographers**
