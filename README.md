@@ -79,7 +79,8 @@ About CD/DVDs [1](http://www.explainthatstuff.com/cdplayers.html)
 [Bad Astronomy](http://www.slate.com/blogs/bad_astronomy.html)  
 [Space.com](http://www.space.com/)  
 [ESO Online Digitized Sky Survey](http://archive.eso.org/dss/dss)  
-[Gábor Tóth Astrophotography](http://astro.i-net.hu/)  
+[Gábor Tóth Astrophotography](http://astro.i-net.hu/) 
+[Molecular Clouds Simulations](http://www.astro.ex.ac.uk/people/mbate/)  
 
 ## **Photographers**
 [EricKim Blog Learn from the Masters](http://erickimphotography.com/blog/learn-from-the-masters/)  
