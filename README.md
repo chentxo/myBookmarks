@@ -10,6 +10,7 @@
 [Topography maps](http://opentopo.sdsc.edu/raster?opentopoID=OTALOS.112016.4326.2)  
 
 ## **Houdini & CG**
+[Hoidini Gubbins](https://houdinigubbins.wordpress.com/)  
 [Houdini CGWiki Tokeru](http://www.tokeru.com/cgwiki/index.php?title=Main_Page)  
 [Code and Visuals](http://blog.yiningkarlli.com/)  
 [Jurajtomori - Blog shaping particle sims interaction forces](https://jurajtomori.wordpress.com/)  
