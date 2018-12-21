@@ -26,6 +26,7 @@
 [Point cloud generation and camera tracking in Nuke 8](http://community.foundry.com/discuss/topic/86851)  
 
 ## **Math & Programming**  
+[Cross product and Determinants (paralellepiped volume) (https://users.math.msu.edu/users/gnagy/teaching/11-fall/mth234/L04-234.pdf)  ]
 [Using Quaternion to Perform 3D rotations](http://www.cprogramming.com/tutorial/3d/quaternions.html)  
 [Maths - Quaternion to AxisAngle](http://www.euclideanspace.com/maths/geometry/rotations/conversions/quaternionToAngle/)  
 [Explained Visually](http://setosa.io/ev/)  
