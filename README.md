@@ -10,6 +10,7 @@
 [Topography maps](http://opentopo.sdsc.edu/raster?opentopoID=OTALOS.112016.4326.2)  
 
 ## **Houdini & CG**
+[OdForum Smoke Solver Tricks](https://forums.odforce.net/topic/31435-smoke-solver-tips-and-tricks/)  
 [Columbia CG Group](http://www.cs.columbia.edu/cg/pubs.php)  
 [Hoidini Gubbins](https://houdinigubbins.wordpress.com/)  
 [Houdini CGWiki Tokeru](http://www.tokeru.com/cgwiki/index.php?title=Main_Page)  
