@@ -20,6 +20,7 @@
 [Jurajtomori - Blog shaping particle sims interaction forces](https://jurajtomori.wordpress.com/)  
 [PepeFx - Blog cigarrete smoke](http://pepefx.blogspot.fr/)  
 [Masterclases](http://www.iamag.co/features/)  
+[Blackbody Color range RGB and infos](http://www.vendian.org/mncharity/dir3/blackbody/UnstableURLs/bbr_color.html)  
 
 
 ## **Python**
