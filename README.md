@@ -59,8 +59,9 @@
 [IVAP for x-plane instructions](https://ivao.aero/softdev/X-IvAp/walkthrough.htm)  
 [IVAO Flight Student](https://www.ivao.aero/training/documentation/index.php?section=fsx)  
 [IVAO primeros pasos, ejemplos com](https://files.ivao.es/newbie/PrimPasATC.pdf)  
+[XPlane.org - Flight School](https://www.x-plane.com/tutorials/x-plane-11-basics/)  
 
-## **Phisycs**
+## **Physics**
 [PrincipiaTechnologica](http://principiatechnologica.com/)  
 [Principia IO](http://principia.io/#)  
 [Naukas, El profesor de Fisica](http://elprofedefisica.naukas.com/)  
@@ -80,7 +81,7 @@ About CD/DVDs [1](http://www.explainthatstuff.com/cdplayers.html)
 [3](http://www.hk-phy.org/articles/cdrom/cdrom_e.html)  
 [Mainly on Colour](https://www.itp.uni-hannover.de/zawischa.html?&L=1)  
 
-## **Astrophisycs**
+## **Astrophysics**
 [La bitácora de Galileo](http://www.bitacoradegalileo.com/indice-tematico/)  
 [Astofisica y Fisica](http://www.astrofisicayfisica.com)  
 [En el cielo las Estrellas](http://guillermoabramson.blogspot.fr/)  
