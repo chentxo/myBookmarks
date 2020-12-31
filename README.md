@@ -59,7 +59,7 @@
 [IVAP for x-plane instructions](https://ivao.aero/softdev/X-IvAp/walkthrough.htm)  
 [IVAO Flight Student](https://www.ivao.aero/training/documentation/index.php?section=fsx)  
 [IVAO primeros pasos, ejemplos com](https://files.ivao.es/newbie/PrimPasATC.pdf)  
-[XPlane.org - Flight School](https://www.x-plane.com/tutorials/x-plane-11-basics/)  
+[XPlane.org - Flight School](https://forums.x-plane.org/index.php?/forums/forum/33-flight-school/)  
 
 ## **Physics**
 [PrincipiaTechnologica](http://principiatechnologica.com/)  
