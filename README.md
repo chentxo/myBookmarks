@@ -11,6 +11,7 @@
 [Topography maps](http://opentopo.sdsc.edu/raster?opentopoID=OTALOS.112016.4326.2)  
 
 ## **Houdini & CG**
+[Ryoji CG Memo - Noises and more](https://sites.google.com/site/fujitarium/Houdini/sop/wrangle/wrangle-pattern)  
 [FX Refs](http://www.ref-fx.com/)  
 [List of all the available free Houdini Tuts & Resources](https://docs.google.com/document/d/18HknhzY11WgdkFk1kN_vNLck1n928pH0iu1J77oh8aQ/edit)  
 [OdForum Smoke Solver Tricks](https://forums.odforce.net/topic/31435-smoke-solver-tips-and-tricks/)  
