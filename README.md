@@ -11,6 +11,7 @@
 [Topography maps](http://opentopo.sdsc.edu/raster?opentopoID=OTALOS.112016.4326.2)  
 
 ## **Houdini & CG**
+[VEX Wrangle Cheat Sheet](https://mrkunz.com/blog/08_22_2018_VEX_Wrangle_Cheat_Sheet.html)  
 [Ryoji CG Memo - Noises and more](https://sites.google.com/site/fujitarium/Houdini/sop/wrangle/wrangle-pattern)  
 [FX Refs](http://www.ref-fx.com/)  
 [List of all the available free Houdini Tuts & Resources](https://docs.google.com/document/d/18HknhzY11WgdkFk1kN_vNLck1n928pH0iu1J77oh8aQ/edit)  
