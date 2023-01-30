@@ -25,6 +25,7 @@
 [Masterclases](http://www.iamag.co/features/)  
 [Blackbody Color range RGB and infos](http://www.vendian.org/mncharity/dir3/blackbody/UnstableURLs/bbr_color.html)  
 [Vex Noise Generator](https://www.keatonwilliamson.com/houdini/noise/vex_noise_generator)  
+[FbM Noise vex](https://mrkunz.com/blog/03-04-2017_Using-noise-in-VEX.html)  
 
 
 ## **Python**
